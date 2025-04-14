@@ -1,0 +1,6 @@
+[submodule "Amazon-AWS/S3-Static-Upload"]
+	path = Amazon-AWS/S3-Static-Upload
+	url = https://github.com/DamiaoArth/S3-Static-Upload
+[submodule "Google-Cloud/Jenkins-CI-CD-GCP"]
+	path = Google-Cloud/Jenkins-CI-CD-GCP
+	url = https://github.com/DamiaoArth/Jenkins-CI-CD-GCP
