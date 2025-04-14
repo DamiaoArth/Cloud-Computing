@@ -66,5 +66,5 @@ Contribuições são bem-vindas! Se quiser colaborar:
 
 ## ✨ Autor
 
-Projeto criado e mantido por **[Seu Nome Aqui]** 👨‍💻  
+Projeto criado e mantido por **Arthur Damiao Mendes** 👨‍💻  
 Entre em contato: [linkedin.com/in/DamiaoArth](https://linkedin.com/in/DamiaoArth) • [github.com/DamiaoArth](https://github.com/DamiaoArth)
